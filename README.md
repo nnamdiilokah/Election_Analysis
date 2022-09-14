@@ -38,3 +38,8 @@
 
 
   ## Election-Audit Summary
+     This script can be modified to be adaptive for use in any election by providing the follwing modifications:
+
+     + The script can be modified to take input data and generate any user's customised database that will be uploaded into python for analysis. In this way, we will be able to make provisions for as many candidates and counties as possible for any possible geographical location.
+
+     + Furthermore, the script can be modified to accomodate more demographics like age and gender. This will enable statistical analysis and planning to be carried out using the demographics gotten from the election result.
